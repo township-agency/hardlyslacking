@@ -1,3 +1,5 @@
-# Slackmoji
+# Slack Status Emoji
 
-Let's add some context here
+A conventional set of emoji to let your co-workers know waht you're doing.
+
+Want to learn more? [Read about why we made these.](https://medium.com/@jason_vega/7a172acef2a4)
